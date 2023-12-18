@@ -1,0 +1,2 @@
+# ewc
+Ethereum Wallet Coordinator
